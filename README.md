@@ -49,15 +49,31 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="1224" height="1179" alt="WhatsApp Image 2026-05-28 at 9 43 19 PM" src="https://github.com/user-attachments/assets/7000e38e-280c-4576-8664-b6a2a0cab001" />
+
 Tabulation for Load Test:
 
+<img width="1126" height="1085" alt="WhatsApp Image 2026-05-28 at 9 46 34 PM" src="https://github.com/user-attachments/assets/ce2c85be-fe99-4e9c-af72-7912bc465d06" />
+
+
 Model graph:
+
+<img width="976" height="1012" alt="WhatsApp Image 2026-05-28 at 9 47 42 PM" src="https://github.com/user-attachments/assets/12ab06ce-7bfd-4fc7-8dc0-7377af217667" />
+
+<img width="1086" height="784" alt="WhatsApp Image 2026-05-28 at 9 48 30 PM" src="https://github.com/user-attachments/assets/460cd65b-07e4-4c62-838e-7f27bd299a73" />
+
+
+
 Calculation: 
 
 Open circuit characteristics
+<img width="875" height="764" alt="Screenshot 2026-04-27 140201" src="https://github.com/user-attachments/assets/5d067f29-6f64-4496-98b0-05b804b1545e" />
+
 
   
 Load Characteristics:
+<img width="986" height="827" alt="Screenshot 2026-04-27 140230" src="https://github.com/user-attachments/assets/06b79530-0d78-45d7-9eeb-84a421e01bee" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
